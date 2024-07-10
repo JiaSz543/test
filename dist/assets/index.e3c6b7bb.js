@@ -1,0 +1,1 @@
+import{d as a,D as o,aK as n,aO as t,G as r,aJ as s,C as c}from"./arco.aab695df.js";const _=r("div",null,"rulemanage",-1),d=a({__name:"index",setup(l){return(m,p)=>{const e=s("router-view");return c(),o(t,null,[_,n(e)],64)}}});export{d as default};

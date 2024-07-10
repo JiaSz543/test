@@ -1,0 +1,1 @@
+import{D as e,C as r}from"./arco.aab695df.js";import{_ as t}from"./index.a839b57c.js";import"./vue.3eff80c5.js";import"./chart.1b82dc8a.js";const n={};function o(c,a){return r(),e("h2",null," event_manage ")}const i=t(n,[["render",o]]);export{i as default};

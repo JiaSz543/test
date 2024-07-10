@@ -1,0 +1,1 @@
+import{D as o,C as e}from"./arco.aab695df.js";import{_ as t}from"./index.a839b57c.js";import"./vue.3eff80c5.js";import"./chart.1b82dc8a.js";const r={name:"Log"};function n(c,s,a,p,i,m){return e(),o("h2",null,"security log")}const d=t(r,[["render",n]]);export{d as default};
